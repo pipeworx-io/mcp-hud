@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-hud",
+  "version": "0.1.0",
+  "description": "HUD MCP — U.S. Department of Housing and Urban Development APIs.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "hud"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-hud"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
