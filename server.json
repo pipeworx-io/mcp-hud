@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/hud",
-  "title": "hud",
+  "title": "Hud",
   "description": "HUD MCP — U.S. Department of Housing and Urban Development APIs.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/hud",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-hud",
