@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/hud",
   "title": "Hud",
   "description": "HUD MCP — U.S. Department of Housing and Urban Development APIs.",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/hud",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-hud",
