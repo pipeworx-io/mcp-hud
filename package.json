@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-hud",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "HUD MCP — U.S. Department of Housing and Urban Development APIs.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "hud",
     "gatewaySlug": "hud",
-    "sourceHash": "v1-93a84564fa020dc005d51600df6db0517b8b72e016e6983d138acd689919f170",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-946ff201337948db2a7be3b06fb457428cd03778380acfcf2e002c9aa15ae1db",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
